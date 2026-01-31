@@ -156,17 +156,3 @@ flutter run -d <device-id>
 - **Build errors**: Run `flutter clean` then `flutter pub get`
 - **Missing .g.dart file**: Run build_runner as shown above
 
-## 📄 License
-
-This project is part of the AppVerse Internship program.
-
-## 👨‍💻 Author
-
-**Maryam**  
-AppVerse Internship - Tasks Portfolio
-
----
-
-**Project Status**: ✅ Complete and Ready for Delivery
-
-**Estimated Quality**: Above Average - Production Ready

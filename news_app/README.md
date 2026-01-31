@@ -212,14 +212,6 @@ This app uses [NewsAPI.org](https://newsapi.org/docs) for fetching news articles
 - [ ] Multiple language support
 - [ ] Article comments and discussions
 
-## 📄 License
-
-This project is created for educational purposes as part of the AppVerse Internship program.
-
-## 👥 Contributing
-
-This is an internship project. Contributions are welcome for learning purposes.
-
 ## 🙏 Acknowledgments
 
 - NewsAPI.org for providing the news data
